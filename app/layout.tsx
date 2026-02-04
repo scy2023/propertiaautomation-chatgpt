@@ -1,14 +1,14 @@
 import "./globals.css";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 export const metadata = {
   title: "Propertia Automation",
-  description: "AI Automation for Property Agents & Agencies"
+  description: "AI Automation for Property Agents & Agencies",
 };
 
 export default function RootLayout({
-  children
+  children,
 }: {
   children: React.ReactNode;
 }) {
