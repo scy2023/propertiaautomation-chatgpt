@@ -1,0 +1,16 @@
+propertiaautomation/
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── globals.css
+├── components/
+│   ├── Hero.tsx
+│   ├── Features.tsx
+│   ├── Footer.tsx
+│   └── Navbar.tsx
+├── public/
+│   └── logo.svg
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── next.config.js
